@@ -24,6 +24,15 @@ const Contact = () => {
       <p>
         Feel free to reach out to me through the following social media accounts:
       </p>
+      <p>
+        Or feel free to send me a message through the form below:
+      </p>
+      <p>
+        Or you can contact me directly through my email: allenkandrew@gmail.com
+      </p>
+      <p>
+        Or you can contact me directly through my phone: 704-420-5433
+      </p>
 
       
 
