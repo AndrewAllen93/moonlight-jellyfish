@@ -63,8 +63,9 @@ export default function Resume() {
       </section>
 
       {/* Link to PDF */}
-      <a href="https://drive.google.com/file/d/1oOYxco8T_d77PflMIDB_i9H9Rp66we_C/view?usp=drive_link" target="_blank">Link Text</a>
-
+      <a href="https://drive.google.com/file/d/1oOYxco8T_d77PflMIDB_i9H9Rp66we_C/view?usp=drive_link" target="_blank">
+        <img src="/images/Resume-logos_white.png" alt="Link to Resume PDF" />
+</a>
     </div>
   );
 }
