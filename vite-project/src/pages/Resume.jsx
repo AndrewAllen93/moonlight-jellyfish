@@ -65,7 +65,7 @@ export default function Resume() {
       {/* Link to PDF */}
       <a
         href="https://drive.google.com/file/d/1oOYxco8T_d77PflMIDB_i9H9Rp66we_C/view?usp=drive_link"
-        target="_blank">Resume Download</a>
+        target="_blank" style={{ color: "red" }} >Resume Download</a>
     </div>
   );
 }
