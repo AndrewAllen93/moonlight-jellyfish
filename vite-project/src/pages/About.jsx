@@ -2,7 +2,7 @@ import React from "react";
 
 function AboutMe() {
   return (
-    <div style={{ fontFamily: 'Poppins', color: "#333", padding: "20px" }}>
+    <div style={{ fontFamily: 'Poppins', color: "#fff", padding: "20px" }}>
       <h2 style={{ fontSize: "30px", paddingBottom: "10px"}}>
         About Me
       </h2>

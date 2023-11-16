@@ -25,7 +25,7 @@ function NavTabs() {
                   fontFamily: "Poppins, sans-serif",
                   fontSize: "20px",
                   fontWeight: "bold",
-                  color: "#333",
+                  color: "#fff",
                   textTransform: "uppercase",
                   textDecoration: "none", // Remove underline
                   marginRight: "20px", // Add spacing between links
@@ -44,7 +44,7 @@ function NavTabs() {
                   fontFamily: "Poppins, sans-serif",
                   fontSize: "20px",
                   fontWeight: "bold",
-                  color: "#333",
+                  color: "#fff",
                   textTransform: "uppercase",
                   textDecoration: "none", // Remove underline
                   marginRight: "20px", // Add spacing between links
@@ -63,7 +63,7 @@ function NavTabs() {
                   fontFamily: "Poppins, sans-serif",
                   fontSize: "20px",
                   fontWeight: "bold",
-                  color: "#333",
+                  color: "#fff",
                   textTransform: "uppercase",
                   textDecoration: "none", // Remove underline
                   marginRight: "20px", // Add spacing between links
@@ -82,7 +82,7 @@ function NavTabs() {
                   fontFamily: "Poppins, sans-serif",
                   fontSize: "20px",
                   fontWeight: "bold",
-                  color: "#333",
+                  color: "#fff",
                   textTransform: "uppercase",
                   textDecoration: "none", // Remove underline
                   marginRight: "20px", // Add spacing between links

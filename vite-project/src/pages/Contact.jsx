@@ -19,7 +19,7 @@ const Contact = () => {
   };
 
   return (
-    <div style={{ fontFamily: "Poppins", color: "#333", padding: "20px" }}>
+    <div style={{ fontFamily: "Poppins", color: "#fff", padding: "20px" }}>
       <h1>Contact Me</h1>
       <p>
         Feel free to reach out to me through the following social media accounts:
@@ -31,7 +31,7 @@ const Contact = () => {
           href="https://www.linkedin.com/in/andrew-allen-9ba774297/"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#0077B5" }}
+          style={{ textDecoration: "none", color: "#fff" }}
         >
           LinkedIn
         </a>
@@ -39,7 +39,7 @@ const Contact = () => {
           href="https://twitter.com/allenkandrew1"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#1DA1F2" }}
+          style={{ textDecoration: "none", color: "#fff" }}
         >
           Twitter
         </a>
@@ -47,7 +47,7 @@ const Contact = () => {
           href="https://github.com/AndrewAllen93"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#333" }}
+          style={{ textDecoration: "none", color: "#fff" }}
         >
           GitHub
         </a>

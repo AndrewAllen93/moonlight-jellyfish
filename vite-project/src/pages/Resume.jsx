@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Resume() {
   return (
-    <div style={{ fontFamily: "Poppins", color: "#333", padding: "20px" }}>
+    <div style={{ fontFamily: "Poppins", color: "#fff", padding: "20px" }}>
       <h1>Resume</h1>
 
       {/* Personal Information */}

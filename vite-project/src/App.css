@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+body {
+  background: linear-gradient(to bottom, #555555, #999999);
+}
+
 h1 {
   font-family: 'poppins', sans-serif;
 }

@@ -19,7 +19,7 @@ function Portfolio() {
   ];
 
   return (
-    <div style={{ fontFamily: "Poppins", color: "#333", padding: "20px" }}>
+    <div style={{ fontFamily: "Poppins", color: "#fff", padding: "20px" }}>
       <h1>Portfolio</h1>
       <p>
         Welcome to my portfolio page! Here, you can explore a showcase of my
