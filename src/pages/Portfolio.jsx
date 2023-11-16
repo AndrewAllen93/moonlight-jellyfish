@@ -6,42 +6,42 @@ function Portfolio() {
     {
       id: 1,
       title: "Dirty Shoes",
-      image: "src/images/Dirty Shoes-logos.jpeg",
+      image: "/images/Dirty Shoes-logos.jpeg",
       description: "A trail finder website using trail finder api",
       url: "https://philipthomas05.github.io/UNCC-Bootcamp-Project-1/"
     },
     {
       id: 2,
       title: "ProBlogger",
-      image: "src/images/ProBlogger-logos.jpeg",
+      image: "/images/ProBlogger-logos.jpeg",
       description: "A blogging website for users to post and comment on blogs.",
       url: "https://salty-harbor-60535-ddd4d167e28a.herokuapp.com/"
     },
     {
       id: 3,
       title: "Work Day Scheduler",
-      image: "src/images/Work Day Scheduler-logos.jpeg",
+      image: "/images/Work Day Scheduler-logos.jpeg",
       description: "A work day scheduler that allows users to save events for each hour of the day.",
       url: "https://andrewallen93.github.io/fictional-waffle/"
     },
     {
       id: 4,
       title: "SVG Generator",
-      image: "src/images/SVG Generator-logos.jpeg",
+      image: "/images/SVG Generator-logos.jpeg",
       description: "A SVG Generator that allows users to create SVGs and save them to their computer.",
       url: "https://github.com/AndrewAllen93/friendly-chainsaw/tree/main"
     },
     {
       id: 5,
       title: "5-Day Weather Forecast",
-      image: "src/images/Forecast-logos.jpeg",
+      image: "/images/Forecast-logos.jpeg",
       description: "A 5-day weather forecast that allows users to search for a city and get the current weather and 5-day forecast.",
       url: "https://andrewallen93.github.io/automatic-waffle/"
     },
     {
       id: 6,
       title: "Note Taker",
-      image: "src/images/Note Taker-logos.jpeg",
+      image: "/images/Note Taker-logos.jpeg",
       description: "A note taker that allows users to create, save, and delete notes.",
       url: "https://obscure-thicket-86208-5802e581c9cd.herokuapp.com/"
     }
