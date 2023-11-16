@@ -25,33 +25,7 @@ const Contact = () => {
         Feel free to reach out to me through the following social media accounts:
       </p>
 
-      {/* Social Media Links */}
-      <div style={{ display: "flex", justifyContent: "space-around", marginTop: "20px" }}>
-        <a
-          href="https://www.linkedin.com/in/andrew-allen-9ba774297/"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#fff" }}
-        >
-          LinkedIn
-        </a>
-        <a
-          href="https://twitter.com/allenkandrew1"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#fff" }}
-        >
-          Twitter
-        </a>
-        <a
-          href="https://github.com/AndrewAllen93"
-          target="_blank"
-          rel="noopener noreferrer"
-          style={{ textDecoration: "none", color: "#fff" }}
-        >
-          GitHub
-        </a>
-      </div>
+      
 
       {/* Contact Form */}
       <form onSubmit={handleSubmit} style={{ marginTop: "20px" }}>
