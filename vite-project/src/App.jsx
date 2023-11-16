@@ -1,20 +1,19 @@
-import './App.css'
+import './App.css';
 import { Outlet } from 'react-router-dom';
-import Nav from './components/NavTabs';
+import NavTabs from './components/NavTabs';
 
 function App() {
-
   return (
     <>
-    <header>
-      <h1>Andrew Allen</h1>
-      <Nav />
-    </header>
+      <NavTabs />
+      <header>
+        <h1>Andrew Allen</h1>
+      </header>
       <div>
         <Outlet />
       </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;

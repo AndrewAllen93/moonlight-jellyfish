@@ -1,10 +1,33 @@
-export default function About() {
-    return (
+import React from "react";
+
+function AboutMe() {
+  return (
+    <div style={{ fontFamily: 'Poppins', color: "#333", padding: "20px" }}>
+      <h2 style={{ fontSize: "30px", paddingBottom: "10px"}}>
+        About Me
+      </h2>
       <div>
-        <h1>About Me</h1>
         <p>
-          I am a happy husband and proud father of two wonderful kids. I have an Associates Degree in Advertising and Graphic Design and I am currently working on finishing a FullStack Coding Bootcamp Certificate. I look forward to finally get into a career as a Software Developer. It's been something that I have wanted to do for many years. I plan to have this as my career for the rest of my life. I've always enjoyed learning how things work and I have always been really good with technology. I am used to working in fast pace environments and I learn very quickly. I strive to do my absolute best at everything I do and always give 150% effort. I am currently looking for a company that I can grow with and hope to one day be their lead developer.
+          Hello! I'm Andrew, a dedicated husband and father of two wonderful girls. Family is at the center of my world, and I cherish the joy and warmth they bring to my life.
         </p>
       </div>
-    );
-  }
+      <div>
+        <p>
+          By day, I'm a passionate full-stack web developer, crafting digital solutions and bringing ideas to life. I thrive on the challenges and creative problem-solving that come with the world of coding.
+        </p>
+      </div>
+      <div>
+        <p>
+          When I'm not immersed in lines of code, you'll often find me surrounded by the beats and melodies of my favorite music. Music is more than a hobby for me; it's a source of inspiration and a way to unwind after a day of coding.
+        </p>
+      </div>
+      <div>
+        <p>
+          I believe in the power of technology to make a positive impact, and I'm excited about the endless possibilities that web development offers. Let's connect, collaborate, and build something amazing together!
+        </p>
+      </div>
+    </div>
+  );
+}
+
+export default AboutMe;
