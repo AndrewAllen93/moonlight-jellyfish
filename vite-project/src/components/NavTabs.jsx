@@ -11,10 +11,10 @@ function NavTabs() {
           <ul
             className="navbar-nav ml-0"
             style={{
-              listStyle: "none", // Remove bullets
-              padding: 0, // Remove default padding
-              margin: 0, // Remove default margin
-              display: "flex", // Make the items flex containers
+              listStyle: "none", 
+              padding: 0, 
+              margin: 0, 
+              display: "flex", 
             }}
           >
             <li className="nav-item">
@@ -27,8 +27,8 @@ function NavTabs() {
                   fontWeight: "bold",
                   color: "#fff",
                   textTransform: "uppercase",
-                  textDecoration: "none", // Remove underline
-                  marginRight: "20px", // Add spacing between links
+                  textDecoration: "none", 
+                  marginRight: "20px", 
                 }}
               >
                 Home
@@ -46,8 +46,8 @@ function NavTabs() {
                   fontWeight: "bold",
                   color: "#fff",
                   textTransform: "uppercase",
-                  textDecoration: "none", // Remove underline
-                  marginRight: "20px", // Add spacing between links
+                  textDecoration: "none", 
+                  marginRight: "20px", 
                 }}
               >
                 Portfolio
@@ -65,8 +65,8 @@ function NavTabs() {
                   fontWeight: "bold",
                   color: "#fff",
                   textTransform: "uppercase",
-                  textDecoration: "none", // Remove underline
-                  marginRight: "20px", // Add spacing between links
+                  textDecoration: "none", 
+                  marginRight: "20px", 
                 }}
               >
                 Contact
@@ -84,8 +84,8 @@ function NavTabs() {
                   fontWeight: "bold",
                   color: "#fff",
                   textTransform: "uppercase",
-                  textDecoration: "none", // Remove underline
-                  marginRight: "20px", // Add spacing between links
+                  textDecoration: "none", 
+                  marginRight: "20px", 
                 }}
               >
                 Resume

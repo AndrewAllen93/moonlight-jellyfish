@@ -12,7 +12,6 @@ function App() {
       <div>
         <Outlet />
       </div>
-      {/* Footer */}
       <footer>
         <div className="social-links">
           <a href="https://github.com/AndrewAllen93" target="_blank" rel="noopener noreferrer">

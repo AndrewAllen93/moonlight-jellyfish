@@ -45,7 +45,7 @@ function Portfolio() {
       description: "A note taker that allows users to create, save, and delete notes.",
       url: "https://obscure-thicket-86208-5802e581c9cd.herokuapp.com/"
     }
-    // Add more projects as needed
+    
   ];
 
   return (
